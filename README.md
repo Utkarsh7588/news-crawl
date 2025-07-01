@@ -44,6 +44,10 @@ To start the crawler and summarizer:
 ```bash
 node src/index.js
 ```
+OR
+```bash
+npm run dev
+```
 - On startup, it will fetch and summarize the latest BBC news articles.
 - It will then repeat this process automatically every 8 hours.
 
