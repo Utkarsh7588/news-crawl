@@ -74,3 +74,27 @@ Here's an example of how a news article is stored in MongoDB:
   "__v": 0
 }
 ```
+
+## NPM Scripts
+
+You can use the following npm commands:
+
+| Command         | Description                                 |
+|-----------------|---------------------------------------------|
+| npm run dev     | Runs the app in development mode            |
+| npm run test    | Runs the test script (placeholder)          |
+
+To run a script, use:
+```bash
+npm run <command>
+```
+
+For example, to start the app in development mode:
+```bash
+npm run dev
+```
+
+> **Note:** You can also start the crawler directly with:
+> ```bash
+> node src/index.js
+> ```
