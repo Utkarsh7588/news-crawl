@@ -58,6 +58,3 @@ node src/index.js
 ## Environment Variables
 - `MONGODB_URI`: MongoDB connection string
 - `GROQ_API_KEY`: API key for Groq AI summarization
-
-## License
-ISC 
