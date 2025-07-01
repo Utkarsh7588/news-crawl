@@ -67,7 +67,10 @@ Here's an example of how a news article is stored in MongoDB:
 {
   "_id": "68626ec5ec3819764ec27ab3",
   "title": "US must rule out more strikes before new talks, Iranian minister tells BBC",
-  "summary": "The US must rule out further strikes on Iran if it wants to resume diplomatic talks, according to Iran's deputy foreign minister, Majid Takht-Ravanchi.\n\nIran is insisting on its right to enrich uranium for peaceful purposes, despite accusations that it is secretly developing a nuclear bomb.\n\nThe US and Iran were previously involved in talks over Iran's nuclear program, but hostilities escalated when Israel struck Iranian nuclear sites and the US bombed three of Iran's nuclear sites.\n\nIran's deputy foreign minister has stated that the US must provide clarity on its position regarding further attacks before talks can resume, and that Iran will continue to observe the current ceasefire with Israel as long as there are no further military attacks.",
+  "summary": "The US must rule out further strikes on Iran if it wants to resume diplomatic talks, according to Iran's deputy foreign minister, Majid Takht-Ravanchi.
+Iran is insisting on its right to enrich uranium for peaceful purposes, despite accusations that it is secretly developing a nuclear bomb.
+The US and Iran were previously involved in talks over Iran's nuclear program, but hostilities escalated when Israel struck Iranian nuclear sites and the US bombed three of Iran's nuclear sites.
+Iran's deputy foreign minister has stated that the US must provide clarity on its position regarding further attacks before talks can resume, and that Iran will continue to observe the current ceasefire with Israel as long as there are no further military attacks.",
   "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e0de/live/3c326b50-552a-11f0-8485-7bd50fa63665.jpg",
   "original_article_url": "https://www.bbc.com/news/articles/c20r18x8x05o",
   "created_at": "2025-06-30T11:02:29.455Z",
